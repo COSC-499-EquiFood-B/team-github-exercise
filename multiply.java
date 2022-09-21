@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class call {
+public class multiply{
     public static void main( String args[] ) {
         Random random = new Random();
 
