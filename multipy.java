@@ -1,8 +1,17 @@
 import java.util.Random;
 
 public class call {
-    public void print( String args[] ) {
+    public static void main( String args[] ) {
         Random random = new Random();
-        System.out.println("A random int: " + random.nextInt()); 
-    } 
+
+        int a = random.nextInt(10);
+        int b = random.nextInt(10);
+
+        int c = a*b;
+
+        System.out.printf("Multiple of %d and %d is %d", a, b, c);
+
+
+    }
+      
 }
