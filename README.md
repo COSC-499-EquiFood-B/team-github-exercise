@@ -1,2 +1,3 @@
-# team-github-exercise
-Team GitHub Exercise for COSC 499
+# Multiply
+This branch features a method call multiply two random integers.
+
